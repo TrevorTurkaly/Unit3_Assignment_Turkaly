@@ -1,0 +1,5 @@
+//declare all of the variables , double for number1 and number2 , int for number3 and number4
+//take the inputs for number1 , number2 , number3 , and number4
+//make all of the addition , subtraction , mulitplication , and division processes 
+//create the modulus of number3 and number4
+// create and if statement for if number2 in divison = 0 and number4 in modulus section = 0 because you cannot divide by 0 in math
